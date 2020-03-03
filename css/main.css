@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: Arial;
+    color: honeydew;
+    background-color: #555;
+    text-align: center;
+}
+h1{
+    font-weight: lighter;
+}
+
+.item-list{
+    text-align: left;
+    font-family: monospace;
+    background-color: #222;
+    color: rgb(3, 185, 3);
+    font-size: 1.2rem;
+    padding: 2rem;
+    border: ridge gray 0.5rem;
+}
+
+.item {
+    margin: 2rem 1rem;
+}
